@@ -6,4 +6,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**创建一个按键，点击按键窗体退出**  
 
 # demo03
-&nbsp;&nbsp;&nbsp;&nbsp;**滑动块与数组旋转框的互动**  
+&nbsp;&nbsp;&nbsp;&nbsp;**滑动块与数字旋转框的互动**  
+
+# demo04
+&nbsp;&nbsp;&nbsp;&nbsp;**使用代码创建一个基础对话框**  
+&nbsp;&nbsp;&nbsp;&nbsp;**包含**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**水平布局**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**垂直布局**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**标签**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**选择框**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**按钮**  
