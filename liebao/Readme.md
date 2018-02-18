@@ -19,3 +19,9 @@
 
 # demo05
 &nbsp;&nbsp;&nbsp;&nbsp;**使用UI设计师快速创建对话框**  
+
+# demo06
+&nbsp;&nbsp;&nbsp;&nbsp;**使用UI设计师创建改变形状的对话框**  
+
+# demo07
+&nbsp;&nbsp;&nbsp;&nbsp;**纯代码实现主窗口**
