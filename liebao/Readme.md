@@ -25,3 +25,6 @@
 
 # demo07
 &nbsp;&nbsp;&nbsp;&nbsp;**纯代码实现主窗口**
+
+# demo08  
+&nbsp;&nbsp;&nbsp;&nbsp;**使用UI设计师实现主窗口(效果同demo07)**
